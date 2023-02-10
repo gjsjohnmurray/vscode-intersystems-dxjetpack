@@ -2,6 +2,8 @@
 
 Curated by [George James Software](https://georgejames.com), this extension pack boosts the developer experience (DX) for devs working on [InterSystems](https://developer.intersystems.com) platforms.
 
+A containerized demo with an embedded InterSystems IRIS instance is available on [GitHub](https://github.com/gjsjohnmurray/dx-jetpack-demo).
+
 See all our Marketplace extensions [here](https://marketplace.visualstudio.com/publishers/georgejames).
 
 **Enjoy!**
