@@ -2,6 +2,14 @@
 
 Curated by [George James Software](https://georgejames.com), this extension pack boosts the developer experience (DX) for devs working on [InterSystems](https://developer.intersystems.com) platforms.
 
+## Contents
+
+- [gj :: codeSpex](https://marketplace.visualstudio.com/items?itemName=georgejames.codespex)
+- [InterSystems ObjectScript Class View](https://marketplace.visualstudio.com/items?itemName=georgejames.objectscript-class-view)
+- [InterSystems ServerDiff](https://marketplace.visualstudio.com/items?itemName=georgejames.intersystems-serverdiff)
+- [gj :: locate](https://marketplace.visualstudio.com/items?itemName=georgejames.gjlocate)
+- [The Folding Stuff](https://marketplace.visualstudio.com/items?itemName=georgejames.thefoldingstuff)
+
 A containerized demo with an embedded InterSystems IRIS instance is available on [GitHub](https://github.com/gjsjohnmurray/dx-jetpack-demo).
 
 See all our Marketplace extensions [here](https://marketplace.visualstudio.com/publishers/georgejames).
